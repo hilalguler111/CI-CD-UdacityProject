@@ -1,4 +1,4 @@
-name: Python application test with Github Actions
+name: Python application test with GitHub Actions
 
 on: [push]
 
@@ -22,3 +22,6 @@ jobs:
     - name: Test with pytest
       run: |
         make test
+    - name: Build
+      run: |
+        make build  # Execute the build command
