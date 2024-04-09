@@ -3,6 +3,7 @@
 
 [![Python application test with Github Actions](https://github.com/AhmetAktoprak/CI-CD-Pipeline-Project/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/AhmetAktoprak/CI-CD-Pipeline-Project/actions/workflows/pythonapp.yml)
 
+[![Build Status](https://dev.azure.com/odluser257271/CI-CD-UdacityProject/_apis/build/status%2Fhilalguler111.CI-CD-UdacityProject?branchName=main)](https://dev.azure.com/odluser257271/CI-CD-UdacityProject/_build/latest?definitionId=1&branchName=main)
 
 # Overview
 
