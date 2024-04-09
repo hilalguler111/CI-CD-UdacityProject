@@ -21,10 +21,6 @@ variables:
 
 pool: myAgentPool
 
-steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
-
 stages:
 - stage: Build
   displayName: Build stage
@@ -32,17 +28,22 @@ stages:
   - job: BuildJob
     pool: myAgentPool
     steps:    
+    - script: echo Hello, world!
+      displayName: 'Run a one-line script'
+
     - script: |
         python -m pip install --upgrade pip
         pip install setup
         pip install -r requirements.txt
       displayName: 'Install Python dependencies'
       workingDirectory: $(projectRoot)
+
     - script: |
         sudo apt-get update
         sudo apt-get install -y zip # Install zip command
       displayName: 'Install zip'
       workingDirectory: $(projectRoot)
+
     - script: |
         export PATH=$HOME/.local/bin:$PATH
         make install
