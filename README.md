@@ -22,23 +22,23 @@
 
 1.Developer Commits and Pushes Changes to GitHub:
 
-Developers commit their changes and push them to GitHub.
+  Developers commit their changes and push them to GitHub.
 
 2.GitHub Action Triggered for Testing:
 
-Upon pushing changes to GitHub, GitHub Actions are triggered to perform testing.
+  Upon pushing changes to GitHub, GitHub Actions are triggered to perform testing.
 
 3.Azure Pipeline Triggered for Building and Deployment:
 
-Simultaneously, a push event triggers an Azure Pipeline build process for building the application and deploying it to the Azure App Service.
+  Simultaneously, a push event triggers an Azure Pipeline build process for building the application and deploying it to the Azure App Service.
 
 4.Testing and Deployment Process Run in Parallel:
 
-While GitHub Actions test the code changes, Azure Pipeline orchestrates the build and deployment process.
+  While GitHub Actions test the code changes, Azure Pipeline orchestrates the build and deployment process.
 
 5.Successful Build and Deployment:
 
-If both the testing by GitHub Actions and the build by Azure Pipeline succeed, the changes are deployed to the Azure App Service.
+  If both the testing by GitHub Actions and the build by Azure Pipeline succeed, the changes are deployed to the Azure App Service.
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
