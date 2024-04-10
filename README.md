@@ -10,15 +10,17 @@
 <TODO: complete this with an overview of your project>
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* [A link](https://trello.com/invite/b/L8jMKmez/ATTIe3d654862b9b4c5da1a3c991347e0f36C2E56C20/ci-cd-udacity-project) to a Trello board for the project
+* [A link](https://docs.google.com/spreadsheets/d/1BMwfE4oJrWMF1_qDiiZp9dTRH4_fi-Rao6z8wfhcYys/edit?usp=sharing) to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram
+
+  
+
+when the source code is pushed to Github, the GitHub Action is triggered for testing. In the meantime the Azure Pipeline is triggered for building the application and deplyong it to the Azure App Service.
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
