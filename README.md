@@ -20,20 +20,21 @@
 
    ![alt text](https://github.com/hilalguler111/CI-CD-UdacityProject/assets/79762223/ac418b31-f8c2-48d7-a412-6173f8900a1f)
 
-1. Developer Commits and Pushes Changes to GitHub:
-   Developers commit their changes and push them to GitHub.
+1.Developer Commits and Pushes Changes to GitHub:
 
-2. GitHub Action Triggered for Testing:
-   Upon pushing changes to GitHub, GitHub Actions are triggered to perform testing.
+Developers commit their changes and push them to GitHub.
+2.GitHub Action Triggered for Testing:
 
-3. Azure Pipeline Triggered for Building and Deployment:
-   Simultaneously, a push event triggers an Azure Pipeline build process for building the application and deploying it to the Azure App Service.
+Upon pushing changes to GitHub, GitHub Actions are triggered to perform testing.
+3.Azure Pipeline Triggered for Building and Deployment:
 
+Simultaneously, a push event triggers an Azure Pipeline build process for building the application and deploying it to the Azure App Service.
 4.Testing and Deployment Process Run in Parallel:
-  While GitHub Actions test the code changes, Azure Pipeline orchestrates the build and deployment process.
 
-5. Successful Build and Deployment:
-   If both the testing by GitHub Actions and the build by Azure Pipeline succeed, the changes are deployed to the Azure App Service.
+While GitHub Actions test the code changes, Azure Pipeline orchestrates the build and deployment process.
+5.Successful Build and Deployment:
+
+If both the testing by GitHub Actions and the build by Azure Pipeline succeed, the changes are deployed to the Azure App Service.
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
