@@ -40,7 +40,16 @@
 
   If both the testing by GitHub Actions and the build by Azure Pipeline succeed, the changes are deployed to the Azure App Service.
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+## Set up Azure Cloud Shell:
+ ### 1-Open Azure cloud shell
+ ### 2-Generate a SHH Key and copy it to your Github Account 
+
+```
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub
+```
+The generated SSH key needs to be added to your GitHub account by navigating to Account Settings and then SSH and GPG keys section
+### 3-Clone the project from Github
 
 * Project running on Azure App Service
 
