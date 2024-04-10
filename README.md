@@ -31,6 +31,7 @@ Upon pushing changes to GitHub, GitHub Actions are triggered to perform testing.
 3.Azure Pipeline Triggered for Building and Deployment:
 
 Simultaneously, a push event triggers an Azure Pipeline build process for building the application and deploying it to the Azure App Service.
+
 4.Testing and Deployment Process Run in Parallel:
 
 While GitHub Actions test the code changes, Azure Pipeline orchestrates the build and deployment process.
