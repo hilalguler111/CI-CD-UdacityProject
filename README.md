@@ -56,6 +56,20 @@ The generated SSH key needs to be added to your GitHub account by navigating to 
 ```
 git clone git@github.com:hilalguler111/CI-CD-UdacityProject.git
 ```
+### make all 
+ ![test passed](https://github.com/hilalguler111/CI-CD-UdacityProject/assets/79762223/1e15b33e-eb99-4524-a400-5749171fb75f)
+
+
+
+
+
+
+
+
+
+
+
+
 
 * Project running on Azure App Service
 
