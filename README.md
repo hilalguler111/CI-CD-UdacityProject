@@ -18,7 +18,7 @@
 
 * Architectural Diagram
 
-  
+   ![alt text](https://github.com/hilalguler111/CI-CD-UdacityProject/assets/79762223/ac418b31-f8c2-48d7-a412-6173f8900a1f)
 
 when the source code is pushed to Github, the GitHub Action is triggered for testing. In the meantime the Azure Pipeline is triggered for building the application and deplyong it to the Azure App Service.
 
