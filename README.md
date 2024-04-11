@@ -59,7 +59,19 @@ git clone git@github.com:hilalguler111/CI-CD-UdacityProject.git
 ### make all 
  ![test passed](https://github.com/hilalguler111/CI-CD-UdacityProject/assets/79762223/1e15b33e-eb99-4524-a400-5749171fb75f)
 
+## CI - CD
+### git hub action test 
+ ![githubaction](https://github.com/DanyaMawed/CI-CD-UdacityProject/assets/79762223/c07beb1f-a22b-44d1-839c-db5556c57dc7)
 
+### Project running on Azure App Service
+ ![sklearn](https://github.com/hilalguler111/CI-CD-UdacityProject/assets/79762223/f327da7f-e079-40eb-b58e-5b66d1f66e06)
+
+### link My Agent with the VM
+![AgentVM](https://github.com/hilalguler111/CI-CD-UdacityProject/assets/79762223/75c4f748-7daa-44db-9a2b-15faf88af55f)
+
+
+### Successful deploy of the project in Azure Pipelines
+![pipelinesucceed](https://github.com/hilalguler111/CI-CD-UdacityProject/assets/79762223/44862210-72ea-43bb-9bde-f092338d046e)
 
 
 
