@@ -71,46 +71,15 @@ git clone git@github.com:hilalguler111/CI-CD-UdacityProject.git
 
 
 ### Successful deploy of the project in Azure Pipelines
+![badges](https://github.com/DanyaMawed/CI-CD-UdacityProject/assets/79762223/d15b3c40-4b18-42f2-8880-fa84cf3b141c)
 ![pipelinesucceed](https://github.com/hilalguler111/CI-CD-UdacityProject/assets/79762223/44862210-72ea-43bb-9bde-f092338d046e)
 
-
-
-
-
-
-
-
-
-
-
-* Project running on Azure App Service
-
-* Project cloned into Azure Cloud Shell
-
-* Passing tests that are displayed after running the `make all` command from the `Makefile`
-
-* Output of a test run
-
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
-
-* Running Azure App Service from Azure Pipelines automatic deployment
-
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
-
-```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
-Port: 443
-{"prediction":[20.35373177134412]}
-```
-
-* Output of streamed log files from deployed application
-
-> 
+### Running Azure App Service from Azure Pipelines automatic deployment
+ ![pipelinesucceed](https://github.com/DanyaMawed/CI-CD-UdacityProject/assets/79762223/20a48114-4201-4538-9f42-d0e16fa5dc6d)
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+make it in way that keep it an up to date project, in case someone tried to use it a year later will be able without facing issues 
 
 ## Demo 
 
