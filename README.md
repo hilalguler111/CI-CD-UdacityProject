@@ -7,8 +7,6 @@
 
 # Overview
 
-<TODO: complete this with an overview of your project>
-
 ## Project Plan
 
 * [A link](https://trello.com/invite/b/L8jMKmez/ATTIe3d654862b9b4c5da1a3c991347e0f36C2E56C20/ci-cd-udacity-project) to a Trello board for the project
@@ -83,6 +81,6 @@ make it in way that keep it an up to date project, in case someone tried to use 
 
 ## Demo 
 
- [A Link](https://www.youtube.com/watch?v=dl3ikXF1Q74&t=22s) on YouTube>
+ [A Link](https://www.youtube.com/watch?v=4gUcbX431cc) on YouTube>
 
 
