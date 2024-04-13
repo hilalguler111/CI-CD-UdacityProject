@@ -1,4 +1,3 @@
-
 setup:
 	python3 -m venv ~/.udacity-devops
 
