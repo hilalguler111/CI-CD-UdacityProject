@@ -1,4 +1,3 @@
-
 setup:
     python3 -m venv ~/.udacity-devops
 
@@ -15,4 +14,3 @@ lint:
     /home/odl_user/.local/bin/pylint --disable=R,C,W1203,bare-except --fail-under=6 app.py
 
 all: install lint test
-
