@@ -77,7 +77,7 @@ git clone git@github.com:hilalguler111/CI-CD-UdacityProject.git
 
 ## Enhancements
 
-make it in way that keep it an up to date project, in case someone tried to use it a year later will be able without facing issues 
+Make it in way that keep it an up to date project, in case someone tried to use it a year later will be able without facing issues 
 
 ## Demo 
 
